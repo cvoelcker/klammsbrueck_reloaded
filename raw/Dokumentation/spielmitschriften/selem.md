@@ -1,0 +1,40 @@
+# In Selem (1011 BF - 1012 BF)
+
+Dschafar findet sich nach der Begegnung mit Liscom von Fasar in dessen alter Villa in Selem wieder. Der geflohene Diener Liscoms hatte noch versucht, alle gefährlichen Briefe und Schriftstücke verschwinden zu lassen, aber in der Hast der Flucht blieben viele kryptische Hinweise auf kontinentumspannende Verschwörungen zurück.
+
+## Erste Analyse
+Liscoms Villa enthält eine magische Bibliothek von beachtlichem Ausmaß, allerdings sind die meisten Schriften Standardwerke. Insgesamt ist dies für einen jungen Adepten dennoch ein glücklicher Fund, denn viele Folianten enthalten Hinweise auf die Magie der alten Echsen, welche nur hier in Selem zu finden sind. Insgesamt sind die Bücher wahrscheinlich in Summe 100 Dukaten wert, doch die meisten eignen sich eher zum Selbststudium.
+
+Zusätzlich enthält Liscoms Villa noch einige Artefakte:
+
+  * ein Siegelring, der Nachrichten verschlüsselt und eine Brille, die das Lesen dieser Nachrichten ermöglicht
+  * mehrere selbstleuchtende Laternen
+  * Glyphen vor den Eingängen und Fenstern der Villa, welche ein schmerzhaftes Brennen bei gewaltsamen Eintritt auslösen
+
+Das alte Studierzimmer des Meisters enthält viele verschlüsselte Korrespondenzen und Briefe, zu großen Teilen philosophische Dispute. Mit einigen anderen hatte Liscom regelmäßig Kontakt. Die wichtigsten von ihnen sind:
+
+  * die Elfe Azaril, offensichtlich eine Adlige im Horasreich
+  * Sulman al'Venish, ein Nekromant im Studium in Brabak
+  * der Bettelmönch, der Leiter eines Klosters in der Nähe von Fasar, dem Liscom offensichtlich großen Respekt zollte
+
+## Wichtige Bücher
+  * Bobarads Testament
+  * Niobaras sternkundliche Tafeln
+
+## Die Studienreise Dschafars (1014 BF - 1015 BF)
+Dschafar verbleibt ein Jahr in Selem, um die Hinterlassenschaften Liscoms zu studieren und die Funktionsweise der dunklen Pforte zu erforschen. Leider stellt sich heraus, dass die Pforte durch die Flucht und Verfolgung Urdos schwer beschädigt wurde. In der Bibliothek des Magiers findet Dschafar dafür Hinweise auf weitere Pforten, z.B. in den Akademien von Khunchom und Fasar, und Spekulationen über die Funktionsweise der Pforten.
+Zudem pflegt er regen Briefwechsel mit Lin und der Universitätsleitung und nötigt den alten Gefährten den Rubinsplitter zur Universität zu bringen.
+Mit diesen Informationen und einer nicht unbeträchtlichen Menge an Wissen und Geld macht sich Dschafar auf den beschwerlichen Rückweg zurück in seine Heimat- und Universitätsstadt. Dort bezahlt er erst mal einen Teil seines neuen Vermögens an seine Familie, welche diese "edle" "Spende" als vorläufige Entschuldigung akzeptiert, jedoch die Auflage stellt, dass der Handel mit Artefakten und Universalschlüsseln fortan mit der Familienabgabe belegt ist.
+
+Als nächstes begibt sich Dschafar zu Khadil Okharim, welcher ihn zurück in die Universität aufnimmt.
+Den Adaptus Major mit Schwerpunkt "Fortgeschrittener Materietransport auf Basis von Matrixmanipulation unter der Verwendung von stationären Artefakten" im Blick, stürzt sich Dschafar in das Nachtleben von Khunchom. Während seiner Studien stellt Dschafar fest, dass ein wichtiger Schlüssel zum Verständnis der Dunklen Pforten ihm jedoch fehlt. Offensichtlich bestimmen unbekannte Variablen, wann und welche Pforten verbunden werden können, doch er findet nur vage Hinweise auf magische Verknüpfungen zwischen den Pforten.
+
+Im Rahmen seiner Studien erhält Dschafar die Erlaubnis und finanzielle Unterstützung, eine Studienreise durchzuführen, die ihn über Fasar nach Punin führt. In Fasar weißt ihn die Akademie ab, da sie ihre Geheimnisse nicht teilen möchte.
+
+Aus den Korrespondenzen von Liscom stechen vor allem die Briefe hervor, die an einen Bettelmönch in einem Kloster im Rashdulswall gerichtet sind. Dieser scheint ein Lehrmeister des Schwarzmagiers zu sein. Dschafar entscheidet sich, dem Kloster einen Besuch abzustatten um den Mönch über den kürzlich verblichenen Schwarzmagier auszufragen.
+
+Das Kloster ist ein alter, verfallener Bau, in dem einige Personen unter der strengen Aufsicht des Meisters leben. Der alte Mann ist eine erschreckende Gestalt, seine fahle Haut lässt ihn skelettartig erscheinen. Doch sein Verstand ist scharf wie ein Schwert. Er berichtet Dschafar von der Magierphilosophie und dem Borbaradianismus, den Lehren, dass Menschen frei vom Joch der Götter sein sollten, um selbst zu mächtigen, überirdischen Wesen zu werden. Gleichzeitig verfolgt er eine Philosophie der Askese, um sich von allen weltlichen Zwängen zu befreien. Dschafar findet heraus, dass Liscoms Plan war, Borbarad zu rufen. Wie andere Borbaradianer auch glaubte er daran, dass der Magier ihm Macht schenken würde, wenn er genügend Anbetung erhielte, um wiederzukehren. Doch er wollte nicht warten, sondern entschied sich, magische Macht zu sammeln, um mit dieser Borbarad zu rufen. Offensichtlich wollte er dazu auch den Karfunkel Tecladors verwenden. Nach einigen Wochen bei den Bettelmönchen reist Dschafar weiter nach Punin, um dort die dunklen Pforten weiter zu erforschen. 
+
+Unter Salandrion Finkenfarn lernt er mehr über die Magierphilosophie (in der akademisch akzeptablen Form), insbesondere die Theorie, dass göttliche Macht von der Menge an Gläubigen abhängig ist. Zusätzlich erforscht er in der Bibliothek von Punin die Theorie der magischen Pforten und der Limbologie. Gerade letzteres zieht Dschafar in den Bann und schon bald experimentiert er mit der magischen Pforte und Limbusmagie.
+
+Bei einem Experiment wird er in den Limbus gerissen und findet sich plötzlich unter einer großen Eiche in der Weidenschen Stadt Baliho wieder. Verwirrt und magisch stark überladen (was diverse Verzerrungen in der umgebenden Realität erzeugt), begibt er sich zunächst in ein nahegelegenes Wirtshaus. Eine Frage jedoch lässt ihn nicht los: Welche Erschütterung des magischen Gefüges hat diese ungeplante Reise ausgelöst?

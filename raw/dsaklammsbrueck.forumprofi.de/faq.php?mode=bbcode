@@ -1,0 +1,617 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="de" xml:lang="de">
+<head>
+<title>BBCode-Anleitung &bull; Klammsbrücker Herold</title>
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<meta http-equiv="content-language" content="de" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<meta name="resource-type" content="document" />
+<meta name="distribution" content="global" />
+<base href="http://dsaklammsbrueck.forumprofi.de/" />
+
+
+<link rel="stylesheet" href="./style.php?id=3&amp;lang=de_x_sie" type="text/css" />
+<!--[if IE]><link rel="stylesheet" href="./styles/DarkFantasy/theme/ie.css" type="text/css" /><![endif]-->
+<!--[if lte IE 6]>
+<script defer type="text/javascript" src="./styles/DarkFantasy/template/pngfix.js"></script>
+<link rel="stylesheet" href="./styles/DarkFantasy/theme/ie6.css" type="text/css" />
+<![endif]-->
+<script type="text/javascript">
+// <![CDATA[
+
+
+function popup(url, width, height, name)
+{
+	if (!name)
+	{
+		name = '_popup';
+	}
+
+	window.open(url.replace(/&amp;/g, '&'), name, 'height=' + height + ',resizable=yes,scrollbars=yes,width=' + width);
+	return false;
+}
+
+function jumpto()
+{
+	var page = prompt('Geben Sie die Nummer der Seite an, zu der Sie gehen möchten.:', '');
+	var per_page = '';
+	var base_url = '';
+
+	if (page !== null && !isNaN(page) && page == Math.floor(page) && page > 0)
+	{
+		if (base_url.indexOf('?') == -1)
+		{
+			document.location.href = base_url + '?start=' + ((page - 1) * per_page);
+		}
+		else
+		{
+			document.location.href = base_url.replace(/&amp;/g, '&') + '&start=' + ((page - 1) * per_page);
+		}
+	}}
+
+/**
+* Find a member
+*/
+function find_username(url)
+{
+	popup(url, 760, 570, '_usersearch');
+	return false;
+}
+
+/**
+* Mark/unmark checklist
+* id = ID of parent container, name = name prefix, state = state [true/false]
+*/
+function marklist(id, name, state)
+{
+	var parent = document.getElementById(id);
+	if (!parent)
+	{
+		eval('parent = document.' + id);
+	}
+
+	if (!parent)
+	{
+		return;
+	}
+
+	var rb = parent.getElementsByTagName('input');
+	
+	for (var r = 0; r < rb.length; r++)
+	{
+		if (rb[r].name.substr(0, name.length) == name)
+		{
+			rb[r].checked = state;
+		}
+	}
+}
+
+
+
+// ]]>
+</script>
+</head>
+<body class="ltr">
+<a name="top"></a>
+
+<div id="container">
+<div id="wrapper">
+
+<div id="header">
+<a href="./index.php"><img src="./styles/DarkFantasy/imageset/site_logo.png" alt="" title="" /></a>
+<div id="top_menu">
+	<a id="search" href="./search.php">Suche</a>
+	<a id="faq" href="./faq.php">FAQ</a>
+</div>
+</div>
+
+<div id="content1">
+<div id="content2">
+<div id="content3">
+
+	<br style="clear: both;" />
+      
+      <div style="text-align: center; float: none; clear: both; width: 730px; max-width: 730px; max-height: 90px; margin: 15px auto 15px auto;">
+      <script type='text/javascript'>
+            <!--//<![CDATA[
+                  var m3_u = (location.protocol=='https:'?'https://fritz.asnetworks.de/www/delivery/ajs.php':'http://fritz.asnetworks.de/www/delivery/ajs.php');
+                  var m3_r = Math.floor(Math.random()*99999999999);
+                  if (!document.MAX_used) document.MAX_used = ',';
+                  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                  document.write ("?zoneid=26");
+                  document.write ('&amp;cb=' + m3_r);
+                  document.write ('&amp;border_color=');
+                  document.write ('&amp;bg_color=');
+                  document.write ('&amp;link_color=');
+                  document.write ('&amp;text_color=');
+                  document.write ('&amp;url_color=');
+                  document.write ('&amp;category=Spiele%20%26%20Gaming');
+                  document.write ('&amp;categoryId=14');
+                  if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                  document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                  document.write ("&amp;loc=" + escape(window.location));
+                  if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                  if (document.context) document.write ("&context=" + escape(document.context));
+                  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                  document.write ("'><\/scr"+"ipt>");
+            //]]>-->
+      </script>
+      <noscript><a href='http://fritz.asnetworks.de/www/delivery/ck.php?n=abd7dc3e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://fritz.asnetworks.de/www/delivery/avw.php?zoneid=26&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=abd7dc3e' border='0' alt='' /></a></noscript>
+</div>
+
+	<p class="genmed"><!-- Forumprofi: Danke-Mod, START //--><!-- Forumprofi: Danke-Mod, END //-->
+      <a href="./ucp.php?mode=login"><b>Anmelden</b></a> | <a href="./ucp.php?mode=register"><b>Registrieren</b></a>
+	</p>
+	
+	<br style="clear: both;" />
+      <table class="tablebg" width="100%" cellspacing="1" cellpadding="0" style="margin-top: 5px;">
+	<tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./portal.php">Portal</a> &#187; <a href="./index.php">Foren-Übersicht</a></p>
+			<p class="datetime">Alle Zeiten sind UTC + 1 Stunde [ Sommerzeit ]</p>
+		</td>
+	</tr>
+	</table>
+	
+	<br />
+	
+	<table width="100%" cellspacing="0">
+	<tr>
+		<td class="gensmall"></td>
+		<td class="gensmall" align="right">Aktuelle Zeit: Donnerstag, 30. März 2017, 16:25:54<br /></td>
+	</tr>
+	</table>
+
+	
+	<p class="searchbar">
+		<span style="float: left;"><a href="./search.php?search_id=unanswered">Unbeantwortete Themen</a> | <a href="./search.php?search_id=active_topics">Aktive Themen</a></span>
+		
+	</p>
+	
+
+	<br style="clear: both;" /><br />
+	
+	<div id="wrapheader"></div>
+
+<a name="faqtop"></a>
+
+<div id="pagecontent">
+
+	<table class="tablebg" width="100%" cellspacing="1">
+	<tr>
+		<th>BBCode-Anleitung</th>
+	</tr>
+	<tr>
+		<td class="row1">
+		
+			<span class="gen"><b>Einführung</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f0r0">Was ist BBCode?</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Formatierung von Text</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f1r0">Wie fetter, kursiver und unterstrichener Text erstellt wird</a></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f1r1">Wie die Textfarbe oder -größe geändert wird</a></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f1r2">Kann ich Tags zur Formatierung kombinieren?</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Zitieren und Ausgabe von Text mit fester Weite</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f2r0">Text in Antworten zitieren</a></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f2r1">Programmcode oder Daten mit fester Weite ausgeben</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Listen erstellen</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f3r0">Eine unsortierte Liste erstellen</a></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f3r1">Eine sortierte Liste erstellen</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Links erstellen</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f4r0">Links auf eine andere Website</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Bilder in Beiträgen anzeigen</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f5r0">Ein Bild zu einem Beitrag hinzufügen</a></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f5r1">Dateien zu einem Beitrag hinzufügen</a></span><br />
+			
+			<br />
+		
+			<span class="gen"><b>Andere Punkte</b></span><br />
+			
+				<span class="gen"><a class="postlink" href="faq.php?mode=bbcode#f6r0">Kann ich meine eigenen Tags hinzufügen?</a></span><br />
+			
+			<br />
+		
+		</td>
+	</tr>
+	<tr>
+		<td class="cat">&nbsp;</td>
+	</tr>
+	</table>
+
+	<br clear="all" />
+
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Einführung</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f0r0"></a><b>&#187; Was ist BBCode?</b></div>
+				<div class="postbody">BBCode ist eine spezielle Umsetzung von HTML. Ob Sie BBCode in Ihren Beiträgen auf diesem Board verwenden können, wird durch die Board-Administration festgelegt. Sofern Sie es verwenden dürfen, können Sie es auch im Beitrags-Formular für diesen Beitrag deaktivieren. BBCode ist ähnlich wie HTML aufgebaut, Tags werden von eckigen Klammern („[“ und „]“) statt spitzen („&lt;“ und „&gt;“) eingeschlossen und erlauben eine bessere Kontrolle, was und wie etwas angezeigt wird. Je nach verwendetem Template werden Sie über dem Bereich für den Nachrichtentext Schaltflächen finden, die Ihnen die Verwendung von BBCode vereinfachen werden. Aber selbst dann kann die folgende Anleitung für Sie hilfreich sein.</div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Formatierung von Text</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f1r0"></a><b>&#187; Wie fetter, kursiver und unterstrichener Text erstellt wird</b></div>
+				<div class="postbody">BBCode enthält Tags, die Ihnen eine schnelle Formatierung Ihres Textes ermöglichen. Dies wird folgendermaßen gemacht: <ul><li>Um einen Text Fett zu machen, schließen Sie ihn in <strong>[b][/b]</strong> ein. So wird z.&nbsp;B.<br /><br /><strong>[b]</strong>Hallo<strong>[/b]</strong><br /><br />zu <strong>Hallo</strong></li><li>Zum Unterstreichen von Text benutzen Sie <strong>[u][/u]</strong>. So wird z.&nbsp;B. aus:<br /><br /><strong>[u]</strong>Guten Morgen<strong>[/u]</strong><br /><br /><span style="text-decoration: underline">Guten Morgen</span></li><li>Um Text kursiv zu stellen, verwenden Sie <strong>[i][/i]</strong>. So wird z.&nbsp;B.<br /><br />Das ist <strong>[i]</strong>großartig!<strong>[/i]</strong><br /><br />zu Das ist <em>großartig!</em></li></ul></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row2" valign="top">
+			
+				<div class="postbody"><a name="f1r1"></a><b>&#187; Wie die Textfarbe oder -größe geändert wird</b></div>
+				<div class="postbody">Um die Farbe oder die Größe Ihres Textes zu ändern, können die folgenden Tags genutzt werden. Beachten Sie dabei bitte, dass es von dem Browser und dem System des Betrachters abhängig ist, wie die Darstellung des Textes erfolgt: <ul><li>Die Farbe des Textes wird geändert, in dem er in <strong>[color=][/color]</strong> eingeschlossen wird. Sie können entweder eine den Browsern bekannte Farbe wie z.&nbsp;B. red, blue, yellow, etc. angeben oder einen Farbwert aus drei zweistelligen Hexadezimalwerten wie #FFFFFF, #000000 verwenden. Um beispielsweise roten Text zu erstellen:<br /><br /><strong>[color=red]</strong>Hallo!<strong>[/color]</strong><br /><br />oder<br /><br /><strong>[color=#FF0000]</strong>Hallo!<strong>[/color]</strong><br /><br />Beides ergibt <span style="color:red">Hallo!</span>.</li><li>Die Textgröße wird in ähnlicher Weise mit <strong>[size=][/size]</strong> geändert. Dieser Tag ist abhängig von dem Template, das der Benutzer ausgewählt hat, aber die empfohlene Angabe ist ein numerischer Wert, der die Textgröße in Prozent angibt – beginnend standardmäßig mit 20 (sehr klein) und endend mit 200 (sehr groß). Zum Beispiel:<br /><br /><strong>[size=30]</strong>KLEIN<strong>[/size]</strong><br /><br />wird gewöhnlich <span style="font-size:30%;">KLEIN</span> sein,<br /><br />während:<br /><br /><strong>[size=200]</strong>GROSS!<strong>[/size]</strong><br /><br /><span style="font-size:200%;">GROSS!</span> sein wird</li></ul></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f1r2"></a><b>&#187; Kann ich Tags zur Formatierung kombinieren?</b></div>
+				<div class="postbody">Natürlich können Sie das. Um z.&nbsp;B. die Aufmerksamkeit eines anderen zu erhalten, können Sie<br /><br /><strong>[size=200][color=red][b]</strong>SCHAU MICH AN!<strong>[/b][/color][/size]</strong><br /><br />schreiben, was als <span style="color:red;font-size:200%;"><strong>SCHAU MICH AN!</strong></span> ausgegeben wird.<br /><br />Wir empfehlen jedoch nicht, viel Text derart zu formatieren! Beachten Sie, dass Sie als Autor dafür verantwortlich sind, dass die Tags richtig geschlossen werden. Zum Beispiel ist das hier falsch:<br /><br /><strong>[b][u]</strong>Das ist falsch<strong>[/b][/u]</strong></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Zitieren und Ausgabe von Text mit fester Weite</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f2r0"></a><b>&#187; Text in Antworten zitieren</b></div>
+				<div class="postbody">Es gibt zwei Arten, Text zu zitieren: mit Quelle und ohne.<ul><li>Wenn Sie die „Mit Zitat antworten“-Funktion zur Antwort auf einen Beitrag verwenden, werden Sie feststellen, dass der alte Beitragstext von <strong>[quote=&quot;&quot;][/quote]</strong> umschlossen zum Nachrichtentext hinzugefügt wird. Dies erlaubt Ihnen unter Angabe einer Referenz zu einer Person oder zu etwas anderem von Ihnen gewähltem zu zitieren. Um z.&nbsp;B. einen Text von Herrn Klecks zu zitieren, sollten Sie Folgendes eingeben:<br /><br /><strong>[quote=&quot;Herr Klecks&quot;]</strong>Der Text von Herrn Klecks würde hier stehen<strong>[/quote]</strong><br /><br />Bei der Ausgabe wird dem Text automatisch „Herr Klecks hat geschrieben:“ vorangestellt. Beachten Sie, dass Sie den Namen in Anführungszeichen (&quot;&quot;) einschließen <strong>müssen</strong>, sie sind nicht optional.</li><li>Die zweite Methode erlaubt Ihnen, etwas ohne Quellangabe zu zitieren. Dazu müssen Sie den Text in <strong>[quote][/quote]</strong> einschließen. Wenn Sie die Nachricht anschauen, wird der Text in einem Zitat-Block angezeigt.</li></ul></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row2" valign="top">
+			
+				<div class="postbody"><a name="f2r1"></a><b>&#187; Programmcode oder Daten mit fester Weite ausgeben</b></div>
+				<div class="postbody">Wenn Sie einen Auszug eines Programmcodes oder etwas anderes, das eine feste Textweite wie eine Courier-Schrift benötigt, eingeben möchten, sollten Sie den Text in <strong>[code][/code]</strong> einschließen, z.&nbsp;B.<br /><br /><strong>[code]</strong>echo &quot;Das ist ein Stück Programmcode&quot;;<strong>[/code]</strong><br /><br />Alle Formatierungen, die innerhalb von <strong>[code][/code]</strong> genutzt werden, bleiben erhalten, wenn der Text betrachtet wird. Die Syntaxhervorhebung für PHP kann mit <strong>[code=php][/code]</strong> aktiviert werden; dies ist immer dann zu empfehlen, wenn PHP-Code gepostet wird, da so die Lesbarkeit verbessert wird.</div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Listen erstellen</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f3r0"></a><b>&#187; Eine unsortierte Liste erstellen</b></div>
+				<div class="postbody">BBCode unterstützt zwei Arten von Listen: unsortierte und sortierte. Sie sind im Wesentlichen identisch zu ihren HTML-Entsprechungen. Eine unsortierte Liste gibt die Elemente Ihrer Liste hintereinander durch einen Aufzählungspunkt gekennzeichnet aus. Verwenden Sie <strong>[list][/list]</strong>, um eine unsortierte Liste zu erstellen und beginnen Sie jeden Aufzählungspunkt mit <strong>[*]</strong>. Um zum Beispiel Ihre Lieblingsfarben aufzulisten, verwenden Sie:<br /><br /><strong>[list]</strong><br /><strong>[*]</strong>Rot<br /><strong>[*]</strong>Blau<br /><strong>[*]</strong>Gelb<br /><strong>[/list]</strong><br /><br />Dies würde folgende Liste ergeben:<ul><li>Rot</li><li>Blau</li><li>Gelb</li></ul></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row2" valign="top">
+			
+				<div class="postbody"><a name="f3r1"></a><b>&#187; Eine sortierte Liste erstellen</b></div>
+				<div class="postbody">Die zweite Listenart, die sortierte Liste, erlaubt Ihnen, festzulegen, was den Punkten vorangestellt wird. Um eine sortierte Liste zu erstellen, verwenden Sie <strong>[list=1][/list]</strong> für eine nummerierte oder alternativ <strong>[list=a][/list]</strong> für eine alphabetische Liste. Wie bei der unsortierten Liste wird jeder Punkt durch <strong>[*]</strong> festgelegt. Zum Beispiel:<br /><br /><strong>[list=1]</strong><br /><strong>[*]</strong>Gehe einkaufen<br /><strong>[*]</strong>Kaufe einen neuen Computer<br /><strong>[*]</strong>Verfluche den Computer, wenn er abstürzt<br /><strong>[/list]</strong><br /><br />würde ergeben:<ol style="list-style-type: decimal;"><li>Gehe einkaufen</li><li>Kaufe einen neuen Computer</li><li>Verfluche den Computer, wenn er abstürzt</li></ol>Eine alphabetische Liste würden Sie hingegen wie folgt erstellen:<br /><br /><strong>[list=a]</strong><br /><strong>[*]</strong>Die erste mögliche Antwort<br /><strong>[*]</strong>Die zweite mögliche Antwort<br /><strong>[*]</strong>Die dritte mögliche Antwort<br /><strong>[/list]</strong><br /><br />ergibt<ol style="list-style-type: lower-alpha"><li>Die erste mögliche Antwort</li><li>Die zweite mögliche Antwort</li><li>Die dritte mögliche Antwort</li></ol></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Links erstellen</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f4r0"></a><b>&#187; Links auf eine andere Website</b></div>
+				<div class="postbody">phpBBs BBCode unterstützt mehrere Wege, um URIs (Uniform Resource Indicators), auch als URLs oder Links bekannt, zu erstellen.<ul><li>Der erste davon ist der <strong>[url=][/url]</strong>-Tag; alles, was Sie nach dem =-Zeichen angeben, wird als Link für den Inhalt des Tags verwendet. Um beispielsweise auf phpBB.de zu linken, können Sie folgenden Code verwenden:<br /><br /><strong>[url=http://www.phpbb.de/]</strong>Besuche phpBB.de!<strong>[/url]</strong><br /><br />Dies würde folgenden Link erstellen: <a href="http://www.phpbb.de/">Besuche phpBB.de!</a> Die Seite wird abhängig von den Einstellungen des Browsers des Benutzers im gleichen oder in einem neuen Fenster geöffnet.</li><li>Wenn Sie möchten, dass die URL selbst als Beschreibung angezeigt wird, können Sie dies wie folgt erreichen:<br /><br /><strong>[url]</strong>http://www.phpbb.de/<strong>[/url]</strong><br /><br />Dies würde folgenden Link erstellen: <a href="http://www.phpbb.de/">http://www.phpbb.de/</a></li><li>phpBB hat zusätzlich eine Funktion, um Links automatisch zu erkennen. Diese Funktion wandelt jede syntaktisch korrekte URL in einen Link um, ohne dass Sie einen Tag oder sogar das führende http:// angeben müssen. Wenn Sie zum Beispiel in Ihrem Text www.phpbb.de schreiben, so wird dies automatisch zu <a href="http://www.phpbb.de/">www.phpbb.de</a>, sobald Sie die Nachricht betrachten.</li><li>Die selbe Funktionalität steht auch bei E-Mail-Adressen zur Verfügung. Sie können entweder eine Adresse explizit kennzeichnen; z.&nbsp;B.:<br /><br /><strong>[email]</strong>niemand@domain.tld<strong>[/email]</strong><br /><br />Dies ergibt <a href="mailto:niemand@domain.tld">niemand@domain.tld</a>. Oder Sie können direkt niemand@domain.tld in Ihrer Nachricht verwenden, was automatisch umgewandelt wird, wenn Sie die Nachricht anschauen.</li></ul>Wie bei allen BBCode-Tags können Sie URLs all den anderen Tags wie <strong>[img][/img]</strong> (siehe nächsten Eintrag), <strong>[b][/b]</strong> usw. hinterlegen. Wie bei den Formatierungs-Tags liegt es an Ihnen, die richtige Reihenfolge beim Öffnen und beim Schließen einzuhalten. So ist zum Beispiel:<br /><br /><strong>[url=http://www.google.de/][img]</strong>http://www.google.com/intl/de_de/images/logo.gif<strong>[/url][/img]</strong><br /><br /><span style="text-decoration: underline">nicht</span> richtig und kann dazu führen, dass Ihr Beitrag gelöscht wird.</div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Bilder in Beiträgen anzeigen</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f5r0"></a><b>&#187; Ein Bild zu einem Beitrag hinzufügen</b></div>
+				<div class="postbody">phpBBs BBCode hat einen Tag, um Bilder in einem Beitrag einzufügen. Dabei müssen zwei wichtige Punkte beachtet werden: erstens mögen es viele Benutzer nicht, wenn viele Bilder in einem Beitrag enthalten sind und zweitens muss das Bild, das Sie anzeigen wollen, bereits im Internet verfügbar sein (es darf also nicht nur auf Ihrem Computer liegen, sofern Sie ihn nicht als Webserver betreiben!). Um ein Bild anzuzeigen, müssen Sie die URL, die auf das Bild verweist, mit dem <strong>[img][/img]</strong>-Tag umschließen. Zum Beispiel:<br /><br /><strong>[img]</strong>http://www.google.com/intl/de_de/images/logo.gif<strong>[/img]</strong><br /><br />Wie schon im Abschnitt über Links erwähnt, können Sie ein Bild auch innerhalb des <strong>[url][/url]</strong>-Tags verwenden:<br /><br /><strong>[url=http://www.google.de/][img]</strong>http://www.google.com/intl/de_de/images/logo.gif<strong>[/img][/url]</strong><br /><br />ergibt:<br /><br /><a href="http://www.google.de/"><img src="http://www.google.com/intl/de_de/images/logo.gif" alt="" /></a></div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row2" valign="top">
+			
+				<div class="postbody"><a name="f5r1"></a><b>&#187; Dateien zu einem Beitrag hinzufügen</b></div>
+				<div class="postbody">Dateianhänge können nun mit dem neuen <strong>[attachment=][/attachment]</strong>-Tag an jeder Stelle eines Beitrags eingefügt werden, sofern Dateianhänge durch die Board-Administration zugelassen wurden und Sie ausreichende Rechte zur Erstellung eines Dateianhangs haben. Innerhalb des Formulars zur Beitragserstellung finden Sie eine Auswahlliste (oder eine Schaltfläche), um Dateianhänge innerhalb des Beitrags zu platzieren.</div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+		<table class="tablebg" width="100%" cellspacing="1">
+		<tr> 
+			<td class="cat" align="center"><h4>Andere Punkte</h4></td>
+		</tr>
+		 
+		<tr>
+			
+				<td class="row1" valign="top">
+			
+				<div class="postbody"><a name="f6r0"></a><b>&#187; Kann ich meine eigenen Tags hinzufügen?</b></div>
+				<div class="postbody">Wenn Sie ein Administrator mit entsprechenden Rechten auf diesem Board sind, können Sie im Bereich für benutzerdefinierte BBCode-Tags weitere Tags definieren.</div>
+				<p class="gensmall"><a href="#faqtop">Nach oben</a></p>
+			</td>
+		</tr>
+		<tr>
+			<td class="spacer" height="1"><img src="images/spacer.gif" alt="" width="1" height="1" /></td>
+		</tr>
+		
+		</table>
+
+		<br clear="all" />
+	
+
+</div>
+
+<table class="tablebg" width="100%" cellspacing="1" cellpadding="0" style="margin-top: 5px;">
+	<tr>
+		<td class="row1">
+			<p class="breadcrumbs"><a href="./portal.php">Portal</a> &#187; <a href="./index.php">Foren-Übersicht</a></p>
+			<p class="datetime">Alle Zeiten sind UTC + 1 Stunde [ Sommerzeit ]</p>
+		</td>
+	</tr>
+	</table>
+
+<br clear="all" />
+
+<div align="right">
+	<form method="post" name="jumpbox" action="./viewforum.php" onsubmit="if(document.jumpbox.f.value == -1){return false;}">
+
+	<table cellspacing="0" cellpadding="0" border="0">
+	<tr>
+		<td nowrap="nowrap"><span class="gensmall">Gehe zu:</span>&nbsp;<select name="f" onchange="if(this.options[this.selectedIndex].value != -1){ document.forms['jumpbox'].submit() }">
+
+		
+			<option value="-1">Wählen Sie ein Forum aus</option>
+		<option value="-1">------------------</option>
+			<option value="6">Klammsbrücker Herold</option>
+		
+			<option value="3">&nbsp; &nbsp;Tagebücher</option>
+		
+			<option value="21">&nbsp; &nbsp;&nbsp; &nbsp;1. G7 - Alptraum ohne Ende</option>
+		
+			<option value="22">&nbsp; &nbsp;&nbsp; &nbsp;2. G7 - Grenzenlose Macht</option>
+		
+			<option value="23">&nbsp; &nbsp;&nbsp; &nbsp;3. G7 - Unsterbliche Gier</option>
+		
+			<option value="24">&nbsp; &nbsp;&nbsp; &nbsp;4. G7 - Pforten des Grauens</option>
+		
+			<option value="25">&nbsp; &nbsp;&nbsp; &nbsp;5. G7 - Bastrabuns Bann</option>
+		
+			<option value="26">&nbsp; &nbsp;&nbsp; &nbsp;6. G7 - Schatten im Zwielicht</option>
+		
+			<option value="27">&nbsp; &nbsp;&nbsp; &nbsp;7. G7 - Goldene Blüten auf Blauem Grund</option>
+		
+			<option value="31">&nbsp; &nbsp;&nbsp; &nbsp;8. G7 - Winter des Wolfes</option>
+		
+			<option value="35">&nbsp; &nbsp;&nbsp; &nbsp;9. G7 - Rohals Versprechen</option>
+		
+			<option value="36">&nbsp; &nbsp;&nbsp; &nbsp;10. G7 - Siebenstreich</option>
+		
+			<option value="43">&nbsp; &nbsp;&nbsp; &nbsp;11. G7 - Rausch der Ewigkeit</option>
+		
+			<option value="9">&nbsp; &nbsp;Zwischenspiele</option>
+		
+			<option value="4">&nbsp; &nbsp;NPC's, Ereignisse und mehr</option>
+		
+			<option value="28">Die Phileassonsaga</option>
+		
+			<option value="29">&nbsp; &nbsp;Terminabsprachen</option>
+		
+			<option value="30">&nbsp; &nbsp;Tagebücher</option>
+		
+			<option value="40">Horasgruppe</option>
+		
+			<option value="41">&nbsp; &nbsp;Termine</option>
+		
+			<option value="42">&nbsp; &nbsp;Inneraventurisches</option>
+		
+
+		</select>&nbsp;<input class="btnlite" type="submit" value="Los" /></td>
+	</tr>
+	</table>
+
+	</form>
+</div>
+
+<div style="text-align: center; float: none; clear: both; width: 730px; max-width: 730px; max-height: 90px; margin: 15px auto 15px auto;">
+      <script src="//js.smartredirect.de/js/?h=RSiU8108" type="text/javascript" async></script>
+      <script type='text/javascript'>
+            <!--//<![CDATA[
+                  var m3_u = (location.protocol=='https:'?'https://fritz.asnetworks.de/www/delivery/ajs.php':'http://fritz.asnetworks.de/www/delivery/ajs.php');
+                  var m3_r = Math.floor(Math.random()*99999999999);
+                  if (!document.MAX_used) document.MAX_used = ',';
+                  document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+                  document.write ("?zoneid=27");
+                  document.write ('&amp;cb=' + m3_r);
+                  document.write ('&amp;border_color=');
+                  document.write ('&amp;bg_color=');
+                  document.write ('&amp;link_color=');
+                  document.write ('&amp;text_color=');
+                  document.write ('&amp;url_color=');
+                  document.write ('&amp;category=Spiele%20%26%20Gaming');
+                  document.write ('&amp;categoryId=14');
+                  if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+                  document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+                  document.write ("&amp;loc=" + escape(window.location));
+                  if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+                  if (document.context) document.write ("&context=" + escape(document.context));
+                  if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+                  document.write ("'><\/scr"+"ipt>");
+            //]]>-->
+      </script>
+      <noscript><a href='http://fritz.asnetworks.de/www/delivery/ck.php?n=a5fcfaba&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://fritz.asnetworks.de/www/delivery/avw.php?zoneid=27&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5fcfaba' border='0' alt='' /></a></noscript>
+</div>
+<script type="text/javascript"
+  src="http://count.asnetworks.de/count.js">
+</script>
+<script type="text/javascript"><!--
+// 27.05.2010
+asn_site_id = "96";
+asn_zone_id = "1";
+asn_no_referrer = "forumprofi.de, de.to";
+Track();
+//-->
+</script>
+
+<!--
+		We request you retain the full copyright notice below including the link to www.phpbb.com.
+		This not only gives respect to the large amount of time given freely by the developers
+		but also helps build interest, traffic and use of phpBB3. If you (honestly) cannot retain
+		the full copyright we ask you at least leave in place the "Powered by phpBB" line, with
+		"phpBB" linked to www.phpbb.com. If you refuse to include even this then support on our
+		forums may be affected.
+
+		The phpBB Group : 2006
+//-->
+
+</div>
+</div>
+</div>
+
+<div id="footer">
+      <span class="notice">[ <a href="./imprint.php">Impressum</a> ]<br /><br />
+	Powered by <a href="http://www.phpbb.com/">phpBB</a> &copy; 2000, 2002, 2005, 2007 phpBB Group<br />
+	DarkFantasy Style by Daniel St. Jules of <a href="http://www.gamexe.net">Gamexe.net</a><br />
+	Deutsche Übersetzung durch <a href="http://www.phpbb.de/">phpBB.de</a><br /></span>
+</div>
+
+</div>
+</div>
+
+
+
+<script type="text/javascript">
+document.write ("<scr"+"ipt type='text/javascript' src='http://margareta.asnetworks.de/delivery.php?sid=2&");
+document.write ("time="+new Date().getTime());
+document.write ("'></scr"+"ipt>");
+</script>
+</body>
+</html>

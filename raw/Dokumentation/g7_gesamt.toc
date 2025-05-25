@@ -1,0 +1,228 @@
+\babel@toc {german}{}
+\contentsline {chapter}{\numberline {1}\IeC {\"U}berblick - Ein Wort zum Ablauf}{7}{chapter.1}
+\contentsline {section}{\numberline {1.1}Borbarads Plan}{7}{section.1.1}
+\contentsline {chapter}{\numberline {2}Dramatis Historiae}{8}{chapter.2}
+\contentsline {section}{\numberline {2.1}Staub und Sterne}{8}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Liscoms Villa}{8}{subsection.2.1.1}
+\contentsline {section}{\numberline {2.2}Heldentrutz und Purpurblitz}{9}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Verbindungen zur Kampagne}{9}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Das Turnier zu Trallop}{9}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Gef\IeC {\"a}hrliche Intrigen}{10}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Szenen}{10}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Finale}{10}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Spielmitschrift}{11}{subsection.2.2.6}
+\contentsline {paragraph}{\nonumberline Zweiter Abend}{11}{section*.2}
+\contentsline {section}{\numberline {2.3}Hexennacht}{12}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Wichtige Ereignisse und Personen}{12}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Einf\IeC {\"u}hrung}{12}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Die Jagd}{13}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Das Ritual}{13}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Notizen aus dem Spiel}{13}{subsection.2.3.5}
+\contentsline {section}{\numberline {2.4}Albtraum ohne Ende}{14}{section.2.4}
+\contentsline {paragraph}{\nonumberline Anf\IeC {\"a}ngliche Motivationen}{14}{section*.3}
+\contentsline {subsection}{\numberline {2.4.1}Dunkle Schatten \IeC {\"u}ber Baliho - Einstieg}{14}{subsection.2.4.1}
+\contentsline {paragraph}{\nonumberline Dschafar}{14}{section*.4}
+\contentsline {paragraph}{\nonumberline Ardarian}{14}{section*.5}
+\contentsline {paragraph}{\nonumberline Im Gasthaus}{14}{section*.6}
+\contentsline {paragraph}{\nonumberline Mutter Linai}{14}{section*.7}
+\contentsline {subsection}{\numberline {2.4.2}Der Weg nach Dragenfeldt - Rising Action}{14}{subsection.2.4.2}
+\contentsline {paragraph}{\nonumberline Die Praioten von Anderath}{14}{section*.8}
+\contentsline {paragraph}{\nonumberline Ein kleiner Junge}{14}{section*.9}
+\contentsline {paragraph}{\nonumberline Aylas Traum}{14}{section*.10}
+\contentsline {paragraph}{\nonumberline Traum vom Gott}{15}{section*.11}
+\contentsline {paragraph}{\nonumberline In Braunklamm}{15}{section*.12}
+\contentsline {paragraph}{\nonumberline Traum vom Zweikampf}{15}{section*.13}
+\contentsline {paragraph}{\nonumberline Runhag und der Kampfplatz}{15}{section*.14}
+\contentsline {paragraph}{\nonumberline Traum von der Leere}{15}{section*.15}
+\contentsline {paragraph}{\nonumberline Ein R\IeC {\"a}uberbaron}{15}{section*.16}
+\contentsline {paragraph}{\nonumberline Traum vom Fallen}{15}{section*.17}
+\contentsline {paragraph}{\nonumberline Druiden in einem kleinen Dorf}{15}{section*.18}
+\contentsline {paragraph}{\nonumberline Traum vom Tod}{15}{section*.19}
+\contentsline {paragraph}{\nonumberline Korobar, der Schrecken der Tobimora}{15}{section*.20}
+\contentsline {subsection}{\numberline {2.4.3}Die W\IeC {\"u}stenei - Klimax}{15}{subsection.2.4.3}
+\contentsline {paragraph}{\nonumberline In der W\IeC {\"u}stenei}{15}{section*.21}
+\contentsline {paragraph}{\nonumberline Die Bewohner Dragenfeldts}{15}{section*.22}
+\contentsline {paragraph}{\nonumberline Traum vom Hass}{15}{section*.23}
+\contentsline {paragraph}{\nonumberline In Dragenfeldt}{15}{section*.24}
+\contentsline {paragraph}{\nonumberline Brug Dragentodt}{16}{section*.25}
+\contentsline {paragraph}{\nonumberline Das Ritual jenseits der Zeit}{16}{section*.26}
+\contentsline {subsection}{\numberline {2.4.4}Epilog - Dschafar}{16}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Epilog - Tobi}{16}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Scheitern}{16}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Kampfwerte}{16}{subsection.2.4.7}
+\contentsline {section}{\numberline {2.5}Unsterbliche Gier}{17}{section.2.5}
+\contentsline {section}{\numberline {2.6}Grenzenlose Macht}{19}{section.2.6}
+\contentsline {section}{\numberline {2.7}Pforten des Grauens}{20}{section.2.7}
+\contentsline {section}{\numberline {2.8}Bastrabuns Bann}{21}{section.2.8}
+\contentsline {section}{\numberline {2.9}Schatten im Zwielicht}{22}{section.2.9}
+\contentsline {section}{\numberline {2.10}Goldene Bl\IeC {\"u}ten auf blauem Grund}{23}{section.2.10}
+\contentsline {section}{\numberline {2.11}Winter des Wolfes}{24}{section.2.11}
+\contentsline {section}{\numberline {2.12}Rohals Versprechen}{25}{section.2.12}
+\contentsline {section}{\numberline {2.13}Schlacht auf den Vallusanischen Weiden}{26}{section.2.13}
+\contentsline {section}{\numberline {2.14}Siebenstreich}{27}{section.2.14}
+\contentsline {section}{\numberline {2.15}Rausch der Ewigkeit}{28}{section.2.15}
+\contentsline {chapter}{\numberline {3}Mitschriften}{29}{chapter.3}
+\contentsline {section}{\numberline {3.1}Staub und Sterne (19.05.2018)}{30}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Ankunft}{30}{subsection.3.1.1}
+\contentsline {subsubsection}{\nonumberline Der alte/junge Buka}{30}{section*.27}
+\contentsline {subsubsection}{\nonumberline Bukas Hintergrundgeschichte}{30}{section*.28}
+\contentsline {subsubsection}{\nonumberline Diebstahl in der Universit\IeC {\"a}t}{30}{section*.29}
+\contentsline {subsubsection}{\nonumberline \IeC {\"U}berfall auf die Gauklerfamilie}{30}{section*.30}
+\contentsline {subsection}{\numberline {3.1.2}Der Tafelberg}{30}{subsection.3.1.2}
+\contentsline {subsubsection}{\nonumberline Die Miene}{31}{section*.31}
+\contentsline {subsubsection}{\nonumberline Das geheime Tal}{31}{section*.32}
+\contentsline {subsection}{\numberline {3.1.3}Der Turm}{31}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Liscoms Villa}{31}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}In Selem (1011 BF - 1012 BF)}{32}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Erste Analyse}{32}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Wichtige B\IeC {\"u}cher}{32}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Die Studienreise Dschafars (1014 BF - 1015 BF)}{32}{subsection.3.2.3}
+\contentsline {chapter}{\numberline {4}Dramatis Personae}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Magiebegabte}{34}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Rohal}{34}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Prishya Garlischgr\IeC {\"o}tz}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Saldor Foslarin}{34}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Salpikon Savertin}{34}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Tarlisin von Borbra}{35}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Khadil Okharim}{35}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Rakorium Muntagonus}{35}{subsection.4.1.7}
+\contentsline {subsection}{\numberline {4.1.8}Dschelef ibn Jassafer}{35}{subsection.4.1.8}
+\contentsline {subsection}{\numberline {4.1.9}Luzelin vom Blautann}{35}{subsection.4.1.9}
+\contentsline {subsection}{\numberline {4.1.10}Morena vom Blautann}{35}{subsection.4.1.10}
+\contentsline {subsection}{\numberline {4.1.11}Kail\IeC {\"a}kinnen}{36}{subsection.4.1.11}
+\contentsline {subsection}{\numberline {4.1.12}Yolana von Ysilia}{36}{subsection.4.1.12}
+\contentsline {subsection}{\numberline {4.1.13}Krallerwatsch}{36}{subsection.4.1.13}
+\contentsline {section}{\numberline {4.2}Geweihte}{36}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Die H\IeC {\"u}terin der Stelen}{36}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Amando Laconda da Vanya}{36}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Ucurian Jago}{36}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}Ayla von Schattengrund}{36}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}Alter weiser Mentor FTW}{37}{subsection.4.2.5}
+\contentsline {section}{\numberline {4.3}Adlige}{37}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Das Haus Gareth}{37}{subsection.4.3.1}
+\contentsline {subsubsection}{\nonumberline Brin von Gareth}{37}{section*.33}
+\contentsline {subsubsection}{\nonumberline Emer von Gareth}{37}{section*.34}
+\contentsline {subsection}{\numberline {4.3.2}Das Haus L\IeC {\"o}wenstein}{37}{subsection.4.3.2}
+\contentsline {subsubsection}{\nonumberline Walpurga von L\IeC {\"o}wenhaupt}{37}{section*.35}
+\contentsline {subsubsection}{\nonumberline Waldemar von L\IeC {\"o}wenhaupt}{38}{section*.36}
+\contentsline {subsection}{\numberline {4.3.3}Das Haus Ehrenstein}{38}{subsection.4.3.3}
+\contentsline {subsubsection}{\nonumberline Dietrand von Ehrenstein}{38}{section*.37}
+\contentsline {subsubsection}{\nonumberline Raidri Conchobair}{38}{section*.38}
+\contentsline {subsubsection}{\nonumberline Bernfried von Ehrenstein}{38}{section*.39}
+\contentsline {subsection}{\numberline {4.3.4}Der Familie von Wallenstein}{38}{subsection.4.3.4}
+\contentsline {subsection}{\numberline {4.3.5}Die Grafen von Ask}{38}{subsection.4.3.5}
+\contentsline {subsubsection}{\nonumberline Irinja von Ask}{38}{section*.40}
+\contentsline {subsubsection}{\nonumberline Tirulf von Ask}{38}{section*.41}
+\contentsline {subsubsection}{\nonumberline Wahnfried von Ask}{38}{section*.42}
+\contentsline {subsection}{\numberline {4.3.6}Strutzz}{38}{subsection.4.3.6}
+\contentsline {subsection}{\numberline {4.3.7}Delian Wiedbr\IeC {\"u}ck}{39}{subsection.4.3.7}
+\contentsline {section}{\numberline {4.4}Einfaches Volk}{39}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}Sefira von Rashdul}{39}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}Elizaveta Walsjakow}{39}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}Familie da Merinal}{39}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}\IeC {\"U}bernat\IeC {\"u}rliche und Heilige}{39}{section.4.5}
+\contentsline {subsection}{\numberline {4.5.1}Teclador/Bukhar}{39}{subsection.4.5.1}
+\contentsline {subsection}{\numberline {4.5.2}Der heilige Jarlak}{39}{subsection.4.5.2}
+\contentsline {section}{\numberline {4.6}Feinde}{40}{section.4.6}
+\contentsline {subsection}{\numberline {4.6.1}Borbarad}{40}{subsection.4.6.1}
+\contentsline {subsection}{\numberline {4.6.2}Borbaradianische Verschw\IeC {\"o}rung}{40}{subsection.4.6.2}
+\contentsline {subsubsection}{\nonumberline Liscom von Fasar}{40}{section*.43}
+\contentsline {subsubsection}{\nonumberline Der Bettelm\IeC {\"o}nch}{40}{section*.44}
+\contentsline {subsubsection}{\nonumberline Korobar}{40}{section*.45}
+\contentsline {subsubsection}{\nonumberline Urdo von Gisholm}{41}{section*.46}
+\contentsline {subsubsection}{\nonumberline Azaril Scharlachkraut}{41}{section*.47}
+\contentsline {subsubsection}{\nonumberline Sulman al Venish}{41}{section*.48}
+\contentsline {subsubsection}{\nonumberline Rayo Brabaker}{41}{section*.49}
+\contentsline {subsection}{\numberline {4.6.3}Heptarchen und Heerf\IeC {\"u}hrer}{41}{subsection.4.6.3}
+\contentsline {subsubsection}{\nonumberline Lutisana von Perricum}{41}{section*.50}
+\contentsline {subsubsection}{\nonumberline Arngrimm von Ehrenstein}{41}{section*.51}
+\contentsline {subsubsection}{\nonumberline Galotta}{41}{section*.52}
+\contentsline {subsubsection}{\nonumberline Xeraan}{42}{section*.53}
+\contentsline {subsubsection}{\nonumberline Rhazzazzor}{42}{section*.54}
+\contentsline {subsubsection}{\nonumberline Helme Haffax}{42}{section*.55}
+\contentsline {subsubsection}{\nonumberline Dimiona von Zorgan}{43}{section*.56}
+\contentsline {subsubsection}{\nonumberline Torxes von Freigeist}{43}{section*.57}
+\contentsline {subsection}{\numberline {4.6.4}Weitere Gegner}{43}{subsection.4.6.4}
+\contentsline {subsubsection}{\nonumberline Pardona}{43}{section*.58}
+\contentsline {subsubsection}{\nonumberline Achaz die Hexe}{43}{section*.59}
+\contentsline {subsubsection}{\nonumberline Abu Therfas}{43}{section*.60}
+\contentsline {chapter}{\numberline {5}Die Prophezeiungen}{44}{chapter.5}
+\contentsline {section}{\numberline {5.1}Die Orakelspr\IeC {\"u}che von Fasar}{44}{section.5.1}
+\contentsline {paragraph}{\nonumberline I. Spruch}{44}{section*.61}
+\contentsline {paragraph}{\nonumberline I.1}{44}{section*.62}
+\contentsline {paragraph}{\nonumberline I.2}{44}{section*.63}
+\contentsline {paragraph}{\nonumberline I.3}{44}{section*.64}
+\contentsline {paragraph}{\nonumberline I.4}{44}{section*.65}
+\contentsline {paragraph}{\nonumberline I.5}{44}{section*.66}
+\contentsline {paragraph}{\nonumberline II. Spruch}{44}{section*.67}
+\contentsline {paragraph}{\nonumberline II.1}{44}{section*.68}
+\contentsline {paragraph}{\nonumberline II.2}{44}{section*.69}
+\contentsline {paragraph}{\nonumberline II.3}{44}{section*.70}
+\contentsline {paragraph}{\nonumberline II.4}{44}{section*.71}
+\contentsline {paragraph}{\nonumberline II.5}{44}{section*.72}
+\contentsline {paragraph}{\nonumberline III. Spruch}{44}{section*.73}
+\contentsline {paragraph}{\nonumberline III.1}{44}{section*.74}
+\contentsline {paragraph}{\nonumberline III.2}{45}{section*.75}
+\contentsline {paragraph}{\nonumberline III.3}{45}{section*.76}
+\contentsline {paragraph}{\nonumberline III.4}{45}{section*.77}
+\contentsline {paragraph}{\nonumberline III.5}{45}{section*.78}
+\contentsline {paragraph}{\nonumberline IV. Spruch}{45}{section*.79}
+\contentsline {paragraph}{\nonumberline IV.1}{45}{section*.80}
+\contentsline {paragraph}{\nonumberline IV.2}{45}{section*.81}
+\contentsline {paragraph}{\nonumberline IV.3}{45}{section*.82}
+\contentsline {paragraph}{\nonumberline IV.4}{45}{section*.83}
+\contentsline {paragraph}{\nonumberline IV.5}{45}{section*.84}
+\contentsline {paragraph}{\nonumberline V. Spruch}{45}{section*.85}
+\contentsline {paragraph}{\nonumberline V.1}{45}{section*.86}
+\contentsline {paragraph}{\nonumberline V.2}{45}{section*.87}
+\contentsline {paragraph}{\nonumberline V.3}{45}{section*.88}
+\contentsline {paragraph}{\nonumberline V.4}{46}{section*.89}
+\contentsline {paragraph}{\nonumberline V.5}{46}{section*.90}
+\contentsline {paragraph}{\nonumberline VI. Spruch}{46}{section*.91}
+\contentsline {paragraph}{\nonumberline VI.1}{46}{section*.92}
+\contentsline {paragraph}{\nonumberline VI.2}{46}{section*.93}
+\contentsline {paragraph}{\nonumberline VI.3}{46}{section*.94}
+\contentsline {paragraph}{\nonumberline VI.4}{46}{section*.95}
+\contentsline {paragraph}{\nonumberline VI.5}{46}{section*.96}
+\contentsline {paragraph}{\nonumberline VII. Spruch}{46}{section*.97}
+\contentsline {paragraph}{\nonumberline VII.1}{46}{section*.98}
+\contentsline {paragraph}{\nonumberline VII.2}{46}{section*.99}
+\contentsline {paragraph}{\nonumberline VII.3}{46}{section*.100}
+\contentsline {paragraph}{\nonumberline VII.4}{46}{section*.101}
+\contentsline {paragraph}{\nonumberline VII.5}{47}{section*.102}
+\contentsline {paragraph}{\nonumberline Schluss}{47}{section*.103}
+\contentsline {section}{\numberline {5.2}Die Al'Anfanischen Prophezeiungen}{47}{section.5.2}
+\contentsline {paragraph}{\nonumberline I. Spruch:}{47}{section*.104}
+\contentsline {paragraph}{\nonumberline II. Spruch:}{47}{section*.105}
+\contentsline {paragraph}{\nonumberline III. Spruch:}{47}{section*.106}
+\contentsline {paragraph}{\nonumberline IV. Spruch:}{47}{section*.107}
+\contentsline {paragraph}{\nonumberline V. Spruch:}{48}{section*.108}
+\contentsline {chapter}{\numberline {6}Die Zeichen}{49}{chapter.6}
+\contentsline {section}{\numberline {6.1}Das Almadine Auge}{50}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Erscheinen und Hintergrund}{50}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}F\IeC {\"a}higkeiten}{50}{subsection.6.1.2}
+\contentsline {subsection}{\numberline {6.1.3}Das Wissen um SEINEN Namen}{50}{subsection.6.1.3}
+\contentsline {section}{\numberline {6.2}Das Wandelnde Bildnis}{50}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Erscheinen und Hintergrund}{50}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}F\IeC {\"a}higkeiten}{50}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Das Wissen um SEINE Gestalt}{50}{subsection.6.2.3}
+\contentsline {section}{\numberline {6.3}Das K\IeC {\"u}hne Tier}{50}{section.6.3}
+\contentsline {subsection}{\numberline {6.3.1}Erscheinen und Hintergrund}{50}{subsection.6.3.1}
+\contentsline {subsection}{\numberline {6.3.2}F\IeC {\"a}higkeiten}{50}{subsection.6.3.2}
+\contentsline {subsection}{\numberline {6.3.3}Das Wissen um SEINE Macht}{50}{subsection.6.3.3}
+\contentsline {section}{\numberline {6.4}Die Firngl\IeC {\"a}nzenden Finger}{50}{section.6.4}
+\contentsline {subsection}{\numberline {6.4.1}Erscheinen und Hintergrund}{50}{subsection.6.4.1}
+\contentsline {subsection}{\numberline {6.4.2}F\IeC {\"a}higkeiten}{50}{subsection.6.4.2}
+\contentsline {subsection}{\numberline {6.4.3}Das Wissen um SEINE List}{50}{subsection.6.4.3}
+\contentsline {section}{\numberline {6.5}Die St\IeC {\"a}hlerne Stirn}{50}{section.6.5}
+\contentsline {subsection}{\numberline {6.5.1}Erscheinen und Hintergrund}{50}{subsection.6.5.1}
+\contentsline {subsection}{\numberline {6.5.2}F\IeC {\"a}higkeiten}{50}{subsection.6.5.2}
+\contentsline {subsection}{\numberline {6.5.3}Das Wissen um SEINEN Frevel}{50}{subsection.6.5.3}
+\contentsline {section}{\numberline {6.6}Das Gefl\IeC {\"u}gelte Geschoss}{50}{section.6.6}
+\contentsline {subsection}{\numberline {6.6.1}Erscheinen und Hintergrund}{50}{subsection.6.6.1}
+\contentsline {subsection}{\numberline {6.6.2}F\IeC {\"a}higkeiten}{50}{subsection.6.6.2}
+\contentsline {subsection}{\numberline {6.6.3}Das Wissen um SEINEN Plan}{50}{subsection.6.6.3}
+\contentsline {section}{\numberline {6.7}Sch\IeC {\"a}rfe aus Sieben Schalen}{50}{section.6.7}
+\contentsline {subsection}{\numberline {6.7.1}Erscheinen und Hintergrund}{50}{subsection.6.7.1}
+\contentsline {subsection}{\numberline {6.7.2}F\IeC {\"a}higkeiten}{50}{subsection.6.7.2}
+\contentsline {subsection}{\numberline {6.7.3}Das Wissen um SEINE Zeit}{50}{subsection.6.7.3}
