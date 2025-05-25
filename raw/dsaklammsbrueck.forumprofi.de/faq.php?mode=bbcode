@@ -9,7 +9,7 @@
 <meta http-equiv="imagetoolbar" content="no" />
 <meta name="resource-type" content="document" />
 <meta name="distribution" content="global" />
-<base href="http://dsaklammsbrueck.forumprofi.de/" />
+<base href="./" />
 
 
 <link rel="stylesheet" href="./style.php?id=3&amp;lang=de_x_sie" type="text/css" />
