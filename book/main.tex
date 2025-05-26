@@ -1,0 +1,51 @@
+\documentclass[10pt,twoside,twocolumn,openany]{book}
+\usepackage{subfiles}
+\usepackage{itdr_core}
+\usepackage[utf8]{inputenc}
+\usepackage[utf8]{luainputenc}
+\usepackage{polyglossia}
+\setmainlanguage[babelshorthands=true]{german}
+
+\input{def}
+
+\begin{document}
+% \fontfamily{ppl}\selectfont % Set text font
+
+\begin{titlepage}
+\newgeometry{margin=1in,top=1.1in}
+\begin{onecolumn}
+
+% TITLE
+\begin{center}
+	\textBigTitle{\title}\\
+	\hrule\vspace{2ex}
+	\textSubTitle{\subtitle}\\
+\end{center}
+
+
+\dimage{cover}{468pt}
+
+\vfill
+
+% FOOTNOTE
+\begin{center}\footnotesize
+``\title'', gesammelt von \author{}
+
+\end{center}
+
+
+\vfill
+
+\end{onecolumn}\end{titlepage}
+\restoregeometry
+\clearpage
+
+\tableofcontents
+
+\part{Rückkehr der Finsternis}
+\input{book1.tex}
+
+\part{Meister der Dämonen}
+\input{book2.tex}
+
+\end{document}
