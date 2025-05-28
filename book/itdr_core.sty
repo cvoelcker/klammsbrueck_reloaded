@@ -754,7 +754,8 @@
 		\centering\IfImageExists{#2.#3}{%
 			\includegraphics[width=\textwidth,#1]{#2.#3}%
 		}{\placeholder{#2}{#4}}% else
-		\vspace*{2ex}\par
+		\vspace*{2ex}
+
 		#5% after
 	]{}
 }}
@@ -857,7 +858,7 @@
 % For example:
 % 	\itemrange{3} second item
 % for a second item in the list will produce:
-% 	2–4. second item
+% 	2-4. second item
 \def\itemrange#1{%
 	\ifnum \@enumdepth = 1
 	\addtocounter{enumi}{1}%
@@ -1356,7 +1357,8 @@
 \def\@ignore@paragraphs{%
 	\begingroup
 	\catcode13=10
-	\@ifnextchar\par
+	\@ifnextchar
+
 	{\endgroup\expandafter\@ignore@paragraphs\@gobble}%
 	{\endgroup}%
 }
@@ -1561,7 +1563,7 @@
 %%%%%%%%%%%%%%
 
 % Hyperref should be loaded last
-\RequirePackage{hyperref}
+\RequirePackage[hidelinks]{hyperref}
 \RequirePackage{bookmark}% fixes title bookmark levels
 
 % toclevel
