@@ -5,8 +5,15 @@
 \usepackage[utf8]{luainputenc}
 \usepackage{polyglossia}
 \usepackage{todonotes}
+\usepackage{wrapfig}
 \setmainlanguage[babelshorthands=true]{german}
 \usepackage{pdfpages}
+\usepackage{tocloft}
+\usepackage{placeins}
+\usepackage{flushend}
+
+% \addtolength{\cftsecnumwidth}{20pt}
+
 \input{def}
 
 \begin{document}
@@ -22,6 +29,7 @@
 	\hrule\vspace{2ex}
 	\textSubTitle{\subtitle}\\
 \end{center}
+
 
 
 \dimage{cover}{468pt}
@@ -43,42 +51,45 @@
 
 \tableofcontents
 
+\listoftodos
+
 \part{Rückkehr der Finsternis}
 \input{book1.tex}
 
-\part*{Zwischenspiel I}
-\addcontentsline{toc}{part}{Zwischenspiel}
-
 \part*{Handouts I}
-\addcontentsline{toc}{part}{Handouts}
+\addcontentsline{toc}{part}{Handouts I}
+\input{book1_handouts.tex}
 
 \part{Meister der Dämonen}
 \input{book2.tex}
 
-\part*{Zwischenspiel II}
-\addcontentsline{toc}{part}{Zwischenspiel}
-
 \part*{Handouts II}
-\addcontentsline{toc}{part}{Handouts}
+\addcontentsline{toc}{part}{Handouts II}
+\input{book2_handouts.tex}
 
 \part{Invasion der Verdammten}
 \input{book3.tex}
 
-\part*{Zwischenspiel III}
-\addcontentsline{toc}{part}{Zwischenspiel}
-
 \part*{Handouts III}
-\addcontentsline{toc}{part}{Handouts}
+\addcontentsline{toc}{part}{Handouts III}
+\input{book3_handouts.tex}
 
 \part{Mächte des Schicksals}
 \input{book4.tex}
 
 \part*{Handouts IV}
-\addcontentsline{toc}{part}{Handouts}
+\addcontentsline{toc}{part}{Handouts IV}
+\input{book4_handouts.tex}
+
+\part{Die Zeichen}
+
+\includepdf[scale=0.9,pages=-]{handouts/zeichen/zweites_zeichen.pdf}
+\includepdf[scale=0.9,pages=-]{handouts/zeichen/schlangenreif.pdf}
+\includepdf[scale=0.9,pages=-]{handouts/zeichen/drittes_zeichen.pdf}
 
 \part{Abschied}
 
-\section{Ein Bericht}
+\section{Verschmierter Brief, gefunden in den Unterlagen des verschollenen Waldemar Tiefhuser}
 
 Lieber Waldemar,
 
@@ -88,11 +99,11 @@ Und zugleich ist über die letzten Momente unserer Freunde sehr viel Tinte vergo
 Aber die folgenden Informationen sind nur für deine Augen bestimmt, und unter den Lebenden befinden sich nur drei weitere, die um diese Geschehnisse wissen: Aria, Ayla, und ich. Tarlisin wird mir helfen meinen Weg zu beschreiten, aber selbst er kennt nicht die ganze Wahrheit.
 
 Dies wird mein letzter Brief an dich sein. Nachdem er gesiegelt ist, wird der Hochmeister der Grauen Stäbe mich ins besetzte Maraskan schicken, wo ich sterben werde.
-Wohin ich tatsächlich gehen werde vermag ich dir nicht zu sagen, aber es wird kein Ort auf Deren sein.
+Wohin ich tatsächlich gehen werde, vermag ich dir nicht zu sagen, aber es wird kein Ort auf Deren sein.
 Mir wurde eine Drachenschuppe zugespielt, ein wahrlich wunderschönes, und zugleich beängstigendes Artefakt.
 Auf jener waren Worte eingeritzt, in einer Schrift, die ich nach all diesen Jahren kenne wie meine eigene: Ich habe eine Nachricht von Temyr erhalten, mit Informationen, wohin ich mich begeben soll.
 
-Wir sehen uns wieder, eines Tages! Halte Ausschau nach einer Schuppen Menacors, denn alle, die mit den Gezeichneten gingen, sind vorbestimmt die Schöpfung zu schützen.
+Wir sehen uns wieder, eines Tages! Halte Ausschau nach einer Schuppen Menacors, denn alle, die an der Seite der Gezeichneten stritten, sind vorbestimmt die Schöpfung zu schützen.
 
 Dein alter Freund,\\
 Iliricon
